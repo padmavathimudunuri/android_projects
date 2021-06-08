@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">console2</string>
+    <string-array name="my_names_array">
+        <item>CHOOSE YOUR PROBLEM</item>
+        <item>cold</item>
+        <item>fever</item>
+        <item>headache</item>
+        <item>body pains</item>
+    </string-array>
+</resources>
